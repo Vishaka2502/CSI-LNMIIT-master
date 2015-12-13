@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CSI-LNMIIT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spalash_text">WELCOME TO CSI-LNMIIT CHAPTER</string>
+
+    <string name="drawer_open">Open drawer navigation</string>
+    <string name="drawer_close">Navigation drawer Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="nav_menu_items">
+        <item>Home</item>
+        <item>About</item>
+        <item>Highlights</item>
+        <item>Director\'s Message</item>
+        <item>HOD\'s Message</item>
+        <item>Faculty Mentor\'s Message</item>
+        <item>Events</item>
+        <item>App Development</item>
+        <item>CSI Session</item>
+        <item>Web</item>
+        <item>Contact</item>
+        <item>CSI India</item>
+    </string-array>
+
+</resources>
